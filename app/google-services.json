@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "254228009775",
+    "firebase_url": "https://appfirebase2-bb4c7.firebaseio.com",
+    "project_id": "appfirebase2-bb4c7",
+    "storage_bucket": "appfirebase2-bb4c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254228009775:android:a13aae17be2e9bf9",
+        "android_client_info": {
+          "package_name": "com.platzi.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254228009775-rb1dfhccdq3a35123nt67pcl6dafshij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.platzi.firebaseapp",
+            "certificate_hash": "0621068646ABA72883FBEDF161911D725CFAC7AB"
+          }
+        },
+        {
+          "client_id": "254228009775-hhper9fl5a3nqa8ospo2km3g0ol9ocrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC22_gLwIg4Ubm09xx5zpnYUVWFt-aYPis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254228009775-hhper9fl5a3nqa8ospo2km3g0ol9ocrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
